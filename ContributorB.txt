@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola buenas tardes me gustaría saber más sobre el proyecto en el que estamos trabajando. ¿Podrías darme más detalles?
+=======
+Viva el estado legitimo de israel
+>>>>>>> origin/main
